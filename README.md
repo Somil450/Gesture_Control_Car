@@ -4,7 +4,7 @@ Click below to watch:
 
 ➡️ [Working Video](./Working.mp4)
 ---
-
+---
 <p align="center">
   <img src="image.png" alt="Gesture Controlled Robot Car" width="100%">
 </p>
